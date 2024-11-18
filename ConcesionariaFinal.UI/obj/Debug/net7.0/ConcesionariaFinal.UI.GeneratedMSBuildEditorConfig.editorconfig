@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConcesionariaFinal.UI
+build_property.RootNamespace = ConcesionariaFinal.UI
+build_property.ProjectDir = c:\Users\Agostina\Downloads\SantaCruz_Thomas_Rubbini_Breit\ConcesionariaFinal\ConcesionariaFinal.UI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Agostina\Downloads\SantaCruz_Thomas_Rubbini_Breit\ConcesionariaFinal\ConcesionariaFinal.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/EditarPolizas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyUG9saXphcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/EditarSiniestros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyU2luaWVzdHJvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/EditarTerceros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyVGVyY2Vyb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/EditarTitulares.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyVGl0dWxhcmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/EditarVehiculos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyVmVoaWN1bG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarPolizas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyUG9saXphcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarSiniestros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyU2luaWVzdHJvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarTerceros.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyVGVyY2Vyb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarTitulares.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyVGl0dWxhcmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarTitularesConSusVehiculos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyVGl0dWxhcmVzQ29uU3VzVmVoaWN1bG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/ListarVehiculos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFyVmVoaWN1bG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Shared/DialogoAdvertencia.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpYWxvZ29BZHZlcnRlbmNpYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-osrlq2q1c8
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Shared/DialogoConfirmacion.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpYWxvZ29Db25maXJtYWNpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-g4x0i98nzf
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qxl49xklnl
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5s9bfq5c9f
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Agostina/Downloads/SantaCruz_Thomas_Rubbini_Breit/ConcesionariaFinal/ConcesionariaFinal.UI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
